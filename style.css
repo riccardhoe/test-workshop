@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, Open Sans
     /* font-family: ; Choose 3 fonts style for the font family (Arial, Helvetica...)*/
 }
 
 
 body {
     min-height: 100vh;
-    /* background: choose your own background color */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,7 +80,7 @@ h1 {
 
 .link-btn:hover {
     background: white;
-    color: #c33764;
+    color: #c33714;
     transform: scale(1.05);
 }
 
