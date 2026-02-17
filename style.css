@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, Open Sans
+    font-family: Arial, Helvetica, Open Sans;
     /* font-family: ; Choose 3 fonts style for the font family (Arial, Helvetica...)*/
 }
 
@@ -13,6 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
+    background: green;
 }
 
 
@@ -73,6 +74,8 @@ h1 {
 }
 
 .link-btn img {
+    width: 20;
+    height: 20;
     /* width: ;
     height: ;
     Choose a size of image (note : should ba a square so x = y) */
